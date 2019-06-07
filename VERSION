@@ -1,0 +1,35 @@
+commit f5b3b55d8bf235da7005be00c901471aa593dc32
+Author: Emmett Lalish <elalish@gmail.com>
+Date:   Fri Jun 7 16:39:57 2019 -0700
+
+    Adjustable FOV (#563)
+    
+    * pulled camera out of controls.ts
+    
+    * interaction is smooth, 15 tests failing
+    
+    * fixed some tests, 4 to go
+    
+    * test assumption problem
+    
+    * two tests failing
+    
+    * all tests passing
+    
+    * added tests
+    
+    * fixed #537
+    
+    * moved framing back to controls.ts
+    
+    * fixed resize bug
+    
+    * added conversion tests
+    
+    * rename dest -> goal
+    
+    * addressing feedback
+    
+    * added damper tests
+    
+    * addressing feedback
